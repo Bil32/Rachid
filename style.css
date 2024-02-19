@@ -1,4 +1,7 @@
-
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
 
 :root {
     --h: 100vh;
